@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Statq/bin/
+/src/Statq.Unit.Tests/bin/
+/src/Statq/obj/
+/src/Statq.Unit.Tests/obj/
+/.vs/
+/src/.vs/

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statq", "Statq\Statq.csproj", "{4F7A3459-BB4B-4258-9BB4-8C590FC7EA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statq.Unit.Tests", "Statq.Unit.Tests\Statq.Unit.Tests.csproj", "{971B337B-AFBD-4997-889E-59F6FEE4974E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7A3459-BB4B-4258-9BB4-8C590FC7EA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7A3459-BB4B-4258-9BB4-8C590FC7EA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7A3459-BB4B-4258-9BB4-8C590FC7EA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7A3459-BB4B-4258-9BB4-8C590FC7EA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971B337B-AFBD-4997-889E-59F6FEE4974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971B337B-AFBD-4997-889E-59F6FEE4974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971B337B-AFBD-4997-889E-59F6FEE4974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971B337B-AFBD-4997-889E-59F6FEE4974E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26B94C6-CDE3-49F7-AC45-A487922ABB2A}
+	EndGlobalSection
+EndGlobal
